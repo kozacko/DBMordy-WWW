@@ -1,0 +1,110 @@
+
+<p>Niniejszy dokument stanowi umowę (dalej: &bdquo;Umowa&rdquo;) pomiędzy Użytkownikiem a właścicielem serwisu DobreMordy.pl, kt&oacute;rą jest Piotr Madeński zamieszkały w stanisławowo 4A, 05-180 Pomiech&oacute;wek, kt&oacute;ra reguluje stosunki między Użytkownikiem a DobreMordy w zakresie korzystania przez Użytkownika z usług świadczonych przez DobreMordy w związku z prowadzonymi serwerami gry MinecraftTM. Użytkownik, poprzez uczestniczenie w rozgrywce prowadzonej na serwerach DobreMordy.pl (pełna lista serwer&oacute;w DobreMordy) lub korzystanie z usług świadczonych przez DobreMordy na portalu DobreMordy.pl, oświadcza, że zapoznał się z niniejszym Regulaminem oraz z Regulaminem serwer&oacute;w DobreMordy.pl, oraz że akceptuje wszelkie postanowienia w nich zawarte. DobreMordy podkreśla, iż nie jest podmiotem powiązanym z Mojang Studios ani Microsoft Corp, a wyłącznie prowadzi działalność polegającą na prowadzeniu, administrowaniu i zarządzaniu serwerem do gry MinecraftTM, a także sprzedaży wirtualnych przedmiot&oacute;w.</p>
+
+<H5><p>&sect;1 Definicje</p></H5>
+
+<p>1. Administrator &ndash; osoba, kt&oacute;rej DobreMordy nadał uprawnienia do administracji serwerem, oznaczony przedrostkiem [ADMIN];</p>
+
+<p>2. Ban - zablokowanie Użytkownikowi dostępu do serwer&oacute;w DobreMordy.pl, kt&oacute;re następuje na zasadach określonych w &sect;5 Regulaminu serwer&oacute;w DobreMordy.pl;</p>
+
+<p>3. Deweloper - Mojang Studios, sp&oacute;łka zależna od Microsoft Corp;</p>
+
+<p>4. Gra - gra komputerowa MinecraftTM, do kt&oacute;rej wszelkie prawa przysługują wyłącznie Deweloperowi;</p>
+
+<p>5. Item Shop - platforma sprzedaży wirtualnych przedmiot&oacute;w do wykorzystania na serwerach DobreMordy.pl;</p>
+
+<p>6. Konto Użytkownika - kombinacja loginu Użytkownika, przekazywanego DobreMordy przez Grę, oraz hasła ustawionego przez Użytkownika w trakcie procedury rejestracji, określonej w &sect;2 Regulaminu serwer&oacute;w DobreMordy.pl;</p>
+
+<p>7. Serwis - strona internetowa www.dobremordy.pl;</p>
+
+<p>8. Usługi serwerowe - usługi oferowane przez DobreMordy w zakresie doświadczeń gracza na serwerach DobreMordy.pl;</p>
+
+<p>9. Użytkownik - osoba korzystająca z usług bądź serwer&oacute;w DobreMordy;</p>
+
+<p>&nbsp;</p>
+
+<H5><p>&sect;2 Korzystanie z Serwisu</p></H5>
+
+<p>1. Korzystając z usług świadczonych przez DobreMordy, Użytkownik zobowiązuje się:</p>
+
+<p>1 używać Serwisu wyłącznie do cel&oacute;w zgodnych z prawem, na własny, niekomercyjny użytek, przestrzegając obowiązujących przepis&oacute;w;</p>
+
+<p>2 nie korzystać z Serwisu w związku z umową z innymi osobami na obstawianie jakichkolwiek pieniędzy lub innych wartościowych przedmiot&oacute;w;</p>
+
+<p>3 nie ograniczać ani utrudniać korzystania z Serwisu innym użytkownikom (np. przez nękanie, działalność hakerską, przeszkadzanie, wywieranie niekorzystnego wpływu na ich działania lub niszczenie wizerunku);</p>
+
+<p>4 nie używać Serwisu w celu tworzenia, wysyłania ani świadomego zamieszczania jakichkolwiek materiał&oacute;w nieprawdziwych i/lub obraźliwych, mylących, obelżywych, wulgarnych, obscenicznych, obrażających uczucia religijne, szerzących nienawiść, napastliwych, o charakterze seksualnym, zawierających groźby, naruszających prywatność, niezgodnych z prawem lub w niezgodnych ze standardami społeczności;</p>
+
+<p>5 nie zamieszczać, nie wysyłać ani nie tworzyć za pomocą Serwisu jakichkolwiek materiał&oacute;w chronionych przez prawa autorskie, chyba że Użytkownik jest właścicielem praw autorskich do takich materiał&oacute;w;</p>
+
+<p>6 nie zamieszczać, nie wysyłać ani nie transmitować oprogramowania bądź informacji zawierających wirusa, robaka, bombę czasową, agenta czyszczącego niepożądaną pocztę, konia trojańskiego lub inną niebezpieczną, destrukcyjną lub szkodliwą zawartość, kt&oacute;re w jakikolwiek spos&oacute;b mogłyby zmodyfikować lub zmienić funkcjonalności Serwisu;</p>
+
+<p>7 nie zamieszczać, nie wysyłać ani nie transmitować materiał&oacute;w naruszających prawa autorskie lub inne prawa własności intelektualnej innych os&oacute;b;</p>
+
+<p>8 nie podszywać się pod inną osobę ani podmiot podczas korzystania z Serwisu;</p>
+
+<p>9 nie udzielać pomocy, porad oraz informacji w powyższym zakresie innym osobom i podmiotom. O fakcie naruszenia poszczeg&oacute;lnych punkt&oacute;w regulaminu decydować będzie wyłącznie DobreMordy bądź wskazani przez nich Administratorzy.</p>
+
+<p>2. Użytkownik może korzystać z Serwisu wyłącznie w celu komunikacji z Administratorami lub korzystania z Item Shopu.</p>
+
+<p>3. Zabronione jest korzystanie z wszelkich błęd&oacute;w Item Shopu. Każdorazowe naruszenie tego postanowienia może się wiązać ze zgłoszeniem przez DobreMordy zawiadomienia o podejrzeniu popełnienia przestępstwa oszustwa, w rozumieniu art. 286 Kodeksu karnego.</p>
+
+<p>&nbsp;</p>
+
+<H5><p>&sect;3 Item Shop</p></H5>
+
+<p>1. W ramach Item Shopu Użytkownik może wykupić dostęp do Usług serwerowych oferowanych przez DobreMordy za pośrednictwem Serwisu.</p>
+
+<p>2. Usługi serwerowe wymienione są w poszczeg&oacute;lnych sekcja Item Shopu.</p>
+
+<p>3. Umiejscowienie Usługi Serwerowej w Item Shopie stanowi ofertę sprzedaży Usługi Serwerowej w rozumieniu art. 543 Kodeksu cywilnego.</p>
+
+<p>4. Zakupione przez Użytkownika Usługi serwerowe są przypisywane do Konta Użytkownika, na czas określony w ofercie sprzedaży Usługi Serwerowej, a po upływie tego czasu usuwane z Konta Użytkownika.</p>
+
+<p>5. Nie jest możliwe przeniesienie zakupionych Usług Serwerowych na inne Konto Użytkownika, niezależnie od tego czy jego właścicielem jest Użytkownik czy osoba trzecia.</p>
+
+<p>6. Wszystkie zakupione przez Użytkownika Usługi serwerowe są także usuwane wraz z nałożeniem Bana na Konto Użytkownika.</p>
+
+<p>7. Użytkownik dokonując zakupu w Item Shopie wyraża zgodę, w trybie art. 38 pkt. 13) Ustawy z dnia 30 maja 2014 r. o prawach konsumenta, na rozpoczęcie spełnienia świadczenia przez DobreMordy przed upływem 14-dniowego terminu do odstąpienia od umowy i jest świadomy, iż wraz z przypisaniem Usługi Serwerowej do Konta Użytkownika, utraci on prawo do odstąpienia od umowy.</p>
+
+<p>8. Użytkownik podczas zakupu musi być online na trybie na kt&oacute;rym kupuje usługę oraz posiadać wolne miejsce w ekwipunku.</p>
+
+<p>9. Jeśli Użytkownik wprowadzi błędną nazwę Użytkownika lub zakupi usługę na złym trybie rozgrywki nie przysługuje żaden zwrot koszt&oacute;w. Usługę otrzymuje się na trybie na kt&oacute;rym się ja zakupiło, jednak trzeba pamiętać o pkt. 8</p>
+
+<p>10. Użytkownik może&nbsp; uzuskać zwrot koszt&oacute;w po podaniu sensowych argument&oacute;w/problem&oacute;w/błed&oacute;w pod adresem reklamacje@dobremordy.pl</p>
+
+<p>11. Termin dostarczenie zakupionej nie powinien przekraczać 5 minut. W przypadku problem&oacute;w prosimy kierować się pod adres reklamacje@dobremordy.pl</p>
+
+<p>&nbsp;</p>
+
+<h5><p>&sect;4 Dane Użytkownika</p></h5>
+
+<p>1. Na potrzeby skorzystania z Serwisu Użytkownik przekazuje DobreMordy wyłącznie informacje o nazwie jego Konta Użytkownika.</p>
+
+<p>2. Informacje wskazane w ust. 1 powyżej nie stanowią danych osobowych w rozumieniu art. 4 pkt. 1) Og&oacute;lnego rozporządzenia o ochronie danych.</p>
+
+<p>&nbsp;</p>
+
+<h5><p>&sect;5 Postanowienia Końcowe</p></h5>
+
+<p>1.Wszelkie ewentualne spory wynikające z Umowy przez Sąd Rejonowy właściwy dla miejsca prowadzenia działalności DobreMordy.</p>
+
+<p>2. W sprawach nieuregulowanych postanowieniami przedmiotowej umowy mają zastosowanie odpowiednie przepisy Kodeksu Cywilnego.</p>
+
+<h5><p>&sect;6 Informacje</p></h5>
+
+<p>1. Sklep obsługiwany jest przez osobę prywatną, kt&oacute;ra jest Piotr Madeński Adres: Stanisławowo 4A, 05-180 Pomiech&oacute;wek.</p>
+
+<p>2. Zmiana regulaminu może ulec w każdej chwili, gracze nie muszą być poinformowani za każdym razem o zmianie regulaminu.</p>
+
+<p>3. Operatorem płatności przelewowych jest HotyPay.<br />
+&nbsp;</p>
+
+<H5><p>&sect;7 Kontakt</p></H5>
+
+<p><br />
+1. W sprawie kontaktu zapraszamy na adres mailowy: admin@dobremordy.pl</p>
+
+<p>2. W sprawach zwrot&oacute;w, reklamacji związanych z sklepem proszę kierować się reklamacje@dobremordy.pl.</p>
+
+<p>&nbsp;Ostatnia aktualizacja: 04.12.2022</p>

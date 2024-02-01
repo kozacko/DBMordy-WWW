@@ -1,0 +1,83 @@
+<!--
+Copyright: kozacko  
+ -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DobreMordy.pl | RANKING</title>
+    <link href="assets/css/style.css" rel="stylesheet">
+</head>
+<body>
+    <style>
+        body{
+            background-color: black;
+        }
+    </style>
+    <!-- ======= Header ======= -->
+    <header id="header" class="fixed-top ">
+        <div class="container d-flex align-items-center">
+
+
+
+            <nav id="navbar" class="navbar">
+                <ul class="d-lg-flex">
+                    <li><a class="nav-link scrollto" href="index.html">STRONA GŁOWNA</a></li>
+                    <li><a class="nav-link scrollto" href="shop.html">SKLEP</a></li>
+                </ul>
+                <i class="bi bi-list mobile-nav-toggle"></i>
+            </nav>
+
+        </div>
+    </header>
+
+    <section id="hero_shop" class="d-flex align-items-center">
+        <div class="container">
+
+            <div class="row">
+                <div class="col-lg-12 d-flex flex-column justify-content-center pt-4 pt-lg-0 order-2 order-lg-1">
+                    <div class="header-title-shop">
+                        <h1><div id="app"></div></h1>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+</div>
+
+<script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Template Main JS File -->
+<script src="assets/js/main.js"></script>
+<script src="assets/js/copytext.js"></script>
+<script src="assets/js/validate.js"></script>
+<script src="assets/js/payment-method.js"></script>
+
+<script src="assets/lib/anime.es.js">
+</script>
+<script src="assets/lib/anime.js"></script>
+<script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+<script>
+    AOS.init();
+</script>
+
+<script>
+    var app = document.getElementById('app');
+
+var typewriter = new Typewriter(app, {
+loop: false,
+delay: 150,
+});
+
+typewriter
+.pauseFor(500)
+.typeString('IN PROGRESS...')
+.start();
+</script>
+</body>
+</html>
